@@ -13,10 +13,10 @@ with a deep appreciation for problem solving using Data Structures and Algorithm
 
 ## About
 
-- CSE (AI/ML) student at GNIOT, affiliated with Dr. A.P.J. Abdul Kalam Technical University
-- Focused on Full-Stack Development using the MERN ecosystem
-- Interested in Machine Learning, NLP, and backend engineering
-- Currently seeking Frontend / Full-Stack internship opportunities
+- Full-Stack Developer with hands-on implementation scalable Web Applications and Cloud Platforms.
+- Exploring machine learning through adversarial robustness, OpenCV and projects focused on them.
+- Interested in system design, problem solving, and performance-focused engineering.
+- Building across the MERN stack, cloud platforms, and AI-driven workflows.
 
 ---
 
