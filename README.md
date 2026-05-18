@@ -4,10 +4,8 @@
 # Pranav Trivedi
 
 ### Full-Stack Developer | MERN Stack | Machine Learning
-
-- Final-year B.Tech student in Computer Science (AI-ML) with a strong foundation in MERN Stack development,
-Cloud, and web based application.
-- Interested in building ML projects using NLP, Python, and AI-driven approaches,
+Final-year B.Tech student in Computer Science (AI-ML) with a strong foundation in MERN Stack development,
+Cloud, and web based application. Interested in building ML projects using NLP, Python, and AI-driven approaches,
 with a deep appreciation for problem solving using Data Structures and Algorithms.
 </div>
 
