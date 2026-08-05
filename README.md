@@ -50,8 +50,8 @@ A full-stack e-commerce platform with:
 LIVE Deployment: https://cartify-m.netlify.app
 
 ### CAPTCHA Refinement System
-Computer vision project focused on CAPTCHA preprocessing and refinement for ML-based recognition systems.
-
+IEEE-published computer vision project on CAPTCHA preprocessing and refinement for ML-based recognition systems.
+Publication: https://ieeexplore.ieee.org/document/11583022
 ---
 
 ## Current Focus
